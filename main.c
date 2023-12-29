@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#define SIZE 20
+#define SIZE 10
 #define BOMBS 15
 
 struct Coordinates                           // defining the structure as a global variable so it can be used by every function
